@@ -1,0 +1,6 @@
+[
+    { "id": 1, "name": "Rose", "color": "Red", "price": 10 },
+    { "id": 2, "name": "Tulip", "color": "Yellow", "price": 8 },
+    { "id": 3, "name": "Lily", "color": "White", "price": 12 }
+  ]
+  
